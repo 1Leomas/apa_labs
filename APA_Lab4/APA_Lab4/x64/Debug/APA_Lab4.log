@@ -1,0 +1,3 @@
+﻿  APA_Lab4.cpp
+D:\Univer\Anu II\Sem1\APA\Lab4\APA_Lab4\APA_Lab4\APA_Lab4.cpp(674,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  APA_Lab4.vcxproj -> D:\Univer\Anu II\Sem1\APA\Lab4\APA_Lab4\x64\Debug\APA_Lab4.exe

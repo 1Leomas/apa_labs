@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "43a9d3fa-deb7-4f44-aea3-ca151dab3126": {
+      "ProjectGuid": "43a9d3fa-deb7-4f44-aea3-ca151dab3126",
+      "DisplayName": "APA_Lab4",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "b7d04dd1-dc02-490e-8f81-c6f23a7fae4d": {
+      "ProjectGuid": "b7d04dd1-dc02-490e-8f81-c6f23a7fae4d",
+      "DisplayName": "test",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
